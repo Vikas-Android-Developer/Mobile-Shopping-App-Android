@@ -15,7 +15,7 @@ An Android app built using Java and XML that displays detailed information about
 - ❌ No buying/selling functionality — info only
 
 ## 🖼️ Screenshots
-_Add screenshots of the app UI here (home screen, phone details screen, etc.)_
+       Available 
 
 ## 📁 Folder Structure
 
@@ -34,7 +34,7 @@ _Add screenshots of the app UI here (home screen, phone details screen, etc.)_
 - Educational purpose only
 
 ## 👨‍💻 Developer
-**Vikas J Salvi**  
+**Vikas Jaiprakash Salvi**  
 📧 vikassalvi693@gmail.com  
 📍 Mumbai, India
 
